@@ -1,6 +1,4 @@
 {
-  "title": "The Basics - Networking",
-  "description": "Your app fetched this from a remote endpoint!",
   "movies": [
     { "id": "1", "title": "Hola"},
     { "id": "2", "title": "Holaa"},
