@@ -2,8 +2,8 @@
   "title": "The Basics - Networking",
   "description": "Your app fetched this from a remote endpoint!",
   "movies": [
-    { "id": "1", "title": "Hola", "releaseYear": "1977" },
-    { "id": "2", "title": "Holaa", "releaseYear": "1985" },
-    { "id": "3", "title": "Holaaa", "releaseYear": "1999" }
+    { "id": "1", "title": "Hola"},
+    { "id": "2", "title": "Holaa"},
+    { "id": "3", "title": "Holaaa"}
   ]
 }
